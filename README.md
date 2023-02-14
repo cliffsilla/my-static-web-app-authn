@@ -8,7 +8,7 @@ products:
 description: 'Apps that can be used with as a starting point for some MS Learn Modules.'
 urlFragment: 'https://github.com/MicrosoftDocs/mslearn-staticwebapp-authentication'
 ---
-
+  
 # Official Microsoft Sample
 
 Follow the hands-on tutorial to [authenticate users in a web app using Angular, React, Svelte, or Vue JavaScript with Azure Static Web App](https://docs.microsoft.com/learn/modules/publish-static-web-app-authentication/?WT.mc_id=javascript-12560-yolasors).
